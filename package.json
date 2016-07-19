@@ -1,0 +1,21 @@
+{
+  "name": "reprewin-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Merino",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.5.0",
+    "mongorito": "^2.1.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "2.0.0",
+    "gulp-nodemon": "^2.1.0",
+    "jshint": "^2.9.2"
+  }
+}

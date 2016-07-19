@@ -1,0 +1,22 @@
+{
+  "node": true,
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "latedef": "nofunc",
+  "noarg": true,
+  "regexp": true,
+  "undef": true,
+  "esversion": 6,
+  "unused": true,
+  "strict": true,
+  "trailing": true,
+  "smarttabs": true,
+  "white": true,
+  "quotmark": "single",
+  "indent": 2,
+  "laxbreak": true,
+  "globals": {
+
+  }
+}
